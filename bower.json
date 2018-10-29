@@ -9,9 +9,6 @@
     "bower/html2canvas.js"
   ],
   "ignore": [],
-  "dependencies": {
-    "css-line-break": "1.0.1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/larifari/html2canvas"
