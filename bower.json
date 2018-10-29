@@ -3,10 +3,10 @@
   "version": "1.0.0-alpha.12",
   "description": "A html2canvas clone with a bower package",
   "main": [
-   bower/html2canvas.js
+   "bower/html2canvas.js"
   ],
   "files": [
-    bower/html2canvas.js
+    "bower/html2canvas.js"
   ],
   "ignore": [],
   "dependencies": {
